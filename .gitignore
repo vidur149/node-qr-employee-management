@@ -1,0 +1,12 @@
+build/
+node_modules/
+package-lock.json
+src/config/config.local.json
+src/config/config.staging.json
+src/config/config.prod.json
+src/config/config.dev.json
+pm2.dev.json
+.DS_Store
+npm-debug.log
+nginx.config
+pm2.prod.json

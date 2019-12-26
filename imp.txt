@@ -1,0 +1,6 @@
+to run gulp
+node ./node_modules/gulp/bin/gulp.js
+
+ALTER TABLE `users` CHANGE `role` `role`
+enum('god','cutter','stitchingastar','stitchingbody','accountant','incharge','process1','process2','process3','process4','process9','process10','process11','process12','process2issue','process4issue','process9issue','finishingissue','finishingreceive', 'productionreporter', 'cuttingreceiver') CHARACTER SET utf8
+COLLATE utf8_general_ci NOT NULL;
