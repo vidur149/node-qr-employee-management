@@ -41,7 +41,7 @@
     "hapi-swagger": "^9.2.0",
     "inert": "^5.1.2",
     "joi": "^14.3.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.24.0",
     "mysql2": "^1.6.4",
     "nconf": "^0.10.0",
